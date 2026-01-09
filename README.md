@@ -22,7 +22,7 @@ Fast styling with Tailwind CSS
 
 🔗 Live Demo
 
-👉 https://your-live-link-here
+👉 https://aruna9603.github.io/Greenden-tailwind/
 
 💻 GitHub Repository
 
