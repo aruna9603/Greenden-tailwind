@@ -26,4 +26,4 @@ Fast styling with Tailwind CSS
 
 💻 GitHub Repository
 
-👉 https://github.com/your-username/greenden
+👉 https://github.com/aruna9603/Greenden-tailwind
